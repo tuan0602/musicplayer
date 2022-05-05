@@ -31,7 +31,7 @@ const app = {
             name: "Unstoppable",
             singer: "Sia ",
             path: "./music/Unstoppable-Sia-4312901.mp3",
-            image: "./image/logo600.png"
+            image: "./image/brandon-erlinger-ford-N9xA_BYSJAI-unsplash.jpg"
         },
         {
             name: "Có hẹn Với thanh xuân",
@@ -43,43 +43,38 @@ const app = {
             name: "Nevada",
             singer: "Monstercat",
             path: "./music/Nevada-Monstercat-6983746.mp3",
-            image: "./image/logo600.png"
+            image: "./image/chris-leipelt-iJunkwqig5c-unsplash.jpg"
         }, {
             name: "Power In Your Soul",
             singer: "InteruptLunaLePage",
             path: "./music/PowerInYourSoul-InteruptLunaLePage-7043469.mp3",
-            image: "./image/logo600.png"
+            image: "./image/danny-howe-bn-D2bCvpik-unsplash.jpg"
         }, {
             name: "Way Back Home",
             singer: "SHAUN",
             path: "./music/WayBackHome-SHAUN-5564971.mp3",
-            image: "./image/logo600.png"
+            image: "./image/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg"
         },
         {
-            name: "Way Back Home",
-            singer: "SHAUN",
-            path: "./music/WayBackHome-SHAUN-5564971.mp3",
-            image: "./image/logo600.png"
+            name: "Feeling",
+            singer: "Altero",
+            path: "./music/Feeling-Altero-6322822.mp3",
+            image: "./image/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg"
         }, {
-            name: "Way Back Home",
-            singer: "SHAUN",
-            path: "./music/WayBackHome-SHAUN-5564971.mp3",
-            image: "./image/logo600.png"
+            name: "Lemon Tree",
+            singer: "FoolsGarden",
+            path: "./music/LemonTree-FoolsGarden_42wnr.mp3",
+            image: "./image/aditya-chinchure-9tZhyQskezA-unsplash.jpg"
         }, {
-            name: "Way Back Home",
-            singer: "SHAUN",
-            path: "./music/WayBackHome-SHAUN-5564971.mp3",
-            image: "./image/logo600.png"
+            name: "Why do i",
+            singer: "...",
+            path: "./music/whydoi.m4a",
+            image: "./image/eric-ward-uD0W-swVGgE-unsplash.jpg"
         }, {
-            name: "Way Back Home",
-            singer: "SHAUN",
-            path: "./music/WayBackHome-SHAUN-5564971.mp3",
-            image: "./image/logo600.png"
-        }, {
-            name: "Way Back Home",
-            singer: "SHAUN",
-            path: "./music/WayBackHome-SHAUN-5564971.mp3",
-            image: "./image/logo600.png"
+            name: "The Spectre",
+            singer: "Alan Walker",
+            path: "./music/TheSpectre-AlanWalker-5168081.mp3",
+            image: "./image/danny-howe-bn-D2bCvpik-unsplash.jpg"
         },
     ],
     defineProperties: function() {
